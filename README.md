@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adrianofilho33) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianonfilho) 
 
 # 🔗 Some of my Applications:
-[Kanye West Quote Generator](https://adrianonfilho.github.io/Kanye-West-Quote-Generator/) <br>
+[Kanye West Quote Generator](https://adrianonfilho.github.io/Kanye-West-Quote-Generator/)<br>
 [Magic Formula Ranking](https://colab.research.google.com/github/adrianonfilho/Magic-Formula/blob/main/MagicFormula.ipynb)
 
 # 💻 Tech Stack:
