@@ -8,7 +8,7 @@
 # 🔗 Some of my Applications:
 [Kanye West Quote Generator](https://adrianonfilho.github.io/Kanye-West-Quote-Generator/)<br>
 [Magic Formula Ranking](https://colab.research.google.com/github/adrianonfilho/Magic-Formula/blob/main/MagicFormula.ipynb)<br>
-[LuxCode Website](luxcode.tech)
+[LuxCode Website](https://luxcode.tech)
 
 
 # 💻 Tech Stack:
