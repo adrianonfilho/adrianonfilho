@@ -1,5 +1,5 @@
 # 👀 About Me:
-🔭 I’m currently working on web development applications <br>📕 I.T Student at UFRN<br>💬 Apenas um rapaz latinoamericano sem dinheiro no bolso, sem parentes importantes e vindo do interior
+🔭 I’m currently working on web development applications <br>📕 Software Engineer Student at UFRN<br>💬 Apenas um rapaz latinoamericano sem dinheiro no bolso, sem parentes importantes e vindo do interior
 
 
 ## 🌐 Socials:
